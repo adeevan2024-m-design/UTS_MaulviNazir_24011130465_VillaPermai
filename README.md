@@ -62,6 +62,15 @@ Tidak diperlukan instalasi dependency atau proses build.
 └── style.css
 ```
 
+## Riwayat Commit
+
+| Tanggal | Commit | Ringkasan |
+|---|---|---|
+| 2026-11-07 | [`386d9d6`](https://github.com/adeevan2024-m-design/UTS_MaulviNazir_24011130465_VillaPermai/commit/386d9d6) | Menambahkan website Villa Permai dan dokumentasinya |
+| 2026-11-07 | [`b48cf4f`](https://github.com/adeevan2024-m-design/UTS_MaulviNazir_24011130465_VillaPermai/commit/b48cf4f) | Commit awal |
+
+Lihat [riwayat commit lengkap di GitHub](https://github.com/adeevan2024-m-design/UTS_MaulviNazir_24011130465_VillaPermai/commits/main).
+
 ## Perhitungan Harga
 
 Harga dasar dihitung berdasarkan harga vila per malam dikalikan lama menginap. Untuk tamu lebih dari dua orang, dikenakan biaya tambahan Rp100.000 per orang per malam.
